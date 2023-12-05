@@ -1,0 +1,8 @@
+/* styles.css */
+/* ...Your existing CSS styles... */
+
+.hidden {
+    display: none;
+    text-decoration: underline;
+    cursor: pointer;
+}
